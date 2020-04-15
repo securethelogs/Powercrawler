@@ -1,7 +1,7 @@
 # Powercrawler
 
 
-![Powercrawler](https://ctrla1tdel.files.wordpress.com/2020/04/ynn227rigk.gif)
+![Powercrawler](https://ctrla1tdel.files.wordpress.com/2020/04/powercr.gif)
 
 ## About
 
