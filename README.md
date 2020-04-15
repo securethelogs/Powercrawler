@@ -11,7 +11,7 @@ Powercrawler helps you crawl web directories or crawl files for keywords.
 
 You can either run locally by downloading the script or run remotely using: 
 
-powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/securethelogs/RedRabbit/master/redrabbit.ps1’)”
+powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/securethelogs/Powercrawler/master/Powercrawler.ps1’)”
 
 <b>If you run remotely, you will always get the latest version</b>
 
